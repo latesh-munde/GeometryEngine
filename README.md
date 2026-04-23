@@ -247,6 +247,23 @@ Input → DTO → Builder → Engine → Batch Runner → Results → Summary
 
 ---
 
+# ▶️ Running the Project
+
+### 1. Clone Repository
+
+```
+git clone https://github.com/latesh-munde/GeometryEngine.git
+cd geom-engine
+```
+
+### 2. Run Server
+
+```
+go run cmd/runner/main.go
+```
+
+---
+
 # 🧪 Testing Strategy
 
 - Unit tests per shape
